@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Tutorial: How to add Like, Reblog, Edit and Delete buttons under every Tumblr post"
-date: 2012-10-19
 tags: tutorial tumblr lred
 ---
 
