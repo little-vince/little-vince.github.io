@@ -10,10 +10,10 @@ Whether you’re doing some mass post editing or simply don’t like the fact th
 Here are some screenshots to show you what the final product looks like. Click for full sized image.
 
 To others:
-![Visitor Screenshot](https://github.com/little-vince/lred/raw/master/screenshots/visitor.png?raw=true "What visitors see.")
+[![Visitor Screenshot](https://github.com/little-vince/lred/raw/master/screenshots/visitor.png?raw=true "What visitors see.")](https://github.com/little-vince/lred/raw/master/screenshots/visitor.png?raw=true)
 
 To you:
-![Visitor Screenshot](https://github.com/little-vince/lred/raw/master/screenshots/owner.png?raw=true?raw=true "What you see.")
+[![Visitor Screenshot](https://github.com/little-vince/lred/raw/master/screenshots/owner.png?raw=true?raw=true "What you see.")](https://github.com/little-vince/lred/raw/master/screenshots/owner.png?raw=true?raw=true)
 
 To some, the multitude of ‘Dashboard’ and ‘Follow’ links may be a little bit daunting. If you don’t like the look of it or if you don’t think that it will work with your theme then now is the time to leave.
 Everyone else, follow carefully. :)
