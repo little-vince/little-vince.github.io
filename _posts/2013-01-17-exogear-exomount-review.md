@@ -2,7 +2,6 @@
 layout: post
 title: "Review: EXOGEAR Exomount Universal Car Mount"
 date: 2013-01-17
-published: false
 tags: review exogear exomount
 ---
 
