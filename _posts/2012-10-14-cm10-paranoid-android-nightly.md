@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "CM10: Paranoid Android Nightly"
-tags: android cm10 paranoidandroid galaxynote
+title: "[Review] CM10: Paranoid Android Nightly"
+tags: review android cm10 paranoidandroid galaxynote
 ---
 
 There has been a pretty big hype with jellybean for a while and a lot of my friends (okay not really. only the few who are into flashing custom roms and stuff) have already upgraded.
  So instead of working on all my assignments like I should have been doing, I just spent the last 5 hours or so flashing and screwing around with the OCT 13 build of PA for my Galaxy Note N7000.
 
-Here's a few things that stood out to me.
+Here's an extremely brief review.
 
 ###1. It's not that smooth.
 

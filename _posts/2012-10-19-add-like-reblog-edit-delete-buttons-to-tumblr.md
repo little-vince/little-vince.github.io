@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tutorial: How to add Like, Reblog, Edit and Delete buttons under every Tumblr post"
+title: "[Tutorial] How to add Like, Reblog, Edit and Delete buttons under every Tumblr post"
 tags: tutorial tumblr lred
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tutorial: How to Hide the Tumblr Header on your Dashboard"
+title: "[Tutorial] How to Hide the Tumblr Header on your Dashboard"
 tags: tutorial tumblr header dashboard tips
 ---
 
