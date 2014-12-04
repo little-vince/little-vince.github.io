@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked JB TW rom for the Galaxy Note (GT-N7000)
+title: "Leaked JB TW rom for the Galaxy Note (GT-N7000)"
 tags: android jellybean touchwizz galaxynote
 ---
 

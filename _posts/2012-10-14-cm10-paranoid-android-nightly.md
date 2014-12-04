@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CM10 Paranoid Android Nightly
+title: "CM10: Paranoid Android Nightly"
 tags: android cm10 paranoidandroid galaxynote
 ---
 
