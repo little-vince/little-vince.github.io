@@ -29,7 +29,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   tumblr: little-vince
   twitter: 
-  stackoverflow: users/1063469/little-vince
+  stackoverflow: 1063469 #user id
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: littlevinceblog
