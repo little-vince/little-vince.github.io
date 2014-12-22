@@ -8,6 +8,7 @@ There has been a pretty big hype with jellybean for a while and a lot of my frie
  So instead of working on all my assignments like I should have been doing, I just spent the last 5 hours or so flashing and screwing around with the OCT 13 build of PA for my Galaxy Note N7000.
 
 Here's an extremely brief review.
+<!-- more -->
 
 ###1. It's not that smooth.
 

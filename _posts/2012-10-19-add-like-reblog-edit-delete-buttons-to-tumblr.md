@@ -7,7 +7,7 @@ tags: tutorial tumblr lred
 It’s an absolute pain always having to go to the permalink page to like, edit or delete a post.
 Whether you’re doing some mass post editing or simply don’t like the fact that an extra click is extra effort for your visitors, then this is what this post aims to address.
 
-Here are some screenshots to show you what the final product looks like. Click for full sized image.
+Here are some screenshots to show you what the final product looks like. <!-- more --> Click for full sized image.
 
 To others:
 [![Visitor Screenshot](https://github.com/little-vince/lred/raw/master/screenshots/visitor.png?raw=true "What visitors see.")](https://github.com/little-vince/lred/raw/master/screenshots/visitor.png?raw=true)

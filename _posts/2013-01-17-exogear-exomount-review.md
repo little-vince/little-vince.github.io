@@ -11,6 +11,8 @@ Greetings all.
 
 So a while back I bought this car mount titled "Exogear Exomount Universal Car Mount for Samsung Galaxy Note N7000" from a seller named [all_city](http://myworld.ebay.com.au/all_city/&_trksid=p3984.m1439.l2754). The guy had pretty good feedback so I forked over 35 odd bucks and eagerly awaited the car mount to arrive.
 
+<!-- more -->
+
 I waited an awful long time (a good 3 and a bit weeks). Usually things don't take this long but I thought maybe it has something to do with shipping from the states down to aus, but then a few weeks ago we bought something else from the states and it took like 4 days. o.O Anyways, so yea. First bad thing was that it took ages.  
 **Shipping: 1/5**
 

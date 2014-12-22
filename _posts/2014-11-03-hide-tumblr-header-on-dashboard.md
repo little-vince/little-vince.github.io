@@ -10,6 +10,7 @@ Here is what the final result looks like.
 
 ![Result of header hiding](https://github.com/little-vince/tumblr-header-hider/blob/master/screenshots/result.gif?raw=true "Result of head hiding")
 
+<!-- more -->
 ---
 
 Installation
