@@ -52,7 +52,7 @@ excerpt_separator: "<!-- more -->"
 #
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year/:month/:day/:title/
 paginate_path: /page:num
 
