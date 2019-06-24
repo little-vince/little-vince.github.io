@@ -8,7 +8,7 @@ category: ellipses
 
 ```latex
 \newsavebox{\mybox}
-\savebox{\mybox}{%
+\savebox{\mybox}{
 \begin{minipage}{\0.75\linewidth}
 Du texte juste pour remplir.
 Du texte juste pour remplir.
