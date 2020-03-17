@@ -7,9 +7,6 @@ category: ellipses
 ---
 
 ```latex
-% ########### TODO #################
-\noindent\hspace{0.64cm}\begin{minipage}[c]{0.95\textwidth}
-\begin{lstlisting}[numbers=left,language=TeX, frame=lines,basicstyle=\footnotesize\ttfamily]
 \documentclass[a4paper,12pt]{article} %-- Début préambule
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
