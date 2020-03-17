@@ -40,6 +40,4 @@ category: ellipses
 \end{multicols}                       % Fin 2 colonnes
 
 \end{document}
-\end{lstlisting}
-\end{minipage}
 ```
