@@ -10,7 +10,10 @@ category: ellipses
 % Dans le préambule
 % -----------------
 \usepackage{tasks}
+\usepackage{amssymb}
 % -----------------
+
+\DeclareInstance{tasks}{multiplechoice}{default}{label= $\Box$,label-width=15pt}
 
 Cochez les gaz rares
 \begin{tasks}[style=multiplechoice](2)
