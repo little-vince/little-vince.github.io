@@ -9,7 +9,8 @@ category: ellipses
 ```latex
 % Dans le préambule
 % -----------------
-\usepackage{pstricks-add}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
 % -----------------
 
 \tikzstyle{every picture}+=[remember picture]

@@ -2,14 +2,15 @@
 title: iQhJxC
 permalink: iQhJxC
 layout: post
-date: 2019-06-24 19:04:10
+date: 2020-12-30 11:20:10
 category: ellipses
 ---
 
 ```latex
 % Dans le préambule
 % -----------------
-\usepackage{pstricks-add}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
 % -----------------
 
 \renewcommand{\arraystretch}{2}
