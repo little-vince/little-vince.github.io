@@ -8,9 +8,10 @@ category: ellipses
 
 ```latex
 % Présentation générale et mise en page :
-\documentclass[a4paper ,11pt]{article}
+\documentclass[a4paper,11pt]{article}
 % Marges personnalisees (cf 3.7) :
-\usepackage[left =1cm ,right =1cm ,top =2.2cm ,bottom =1.9 cm]{ geometry}
+\usepackage[left=1cm,right=1cm,top=2.2cm,bottom=1.9cm]{ geometry}
+
 % Chargement automatique des packages selon le type de compilation :
 \usepackage{iftex}
 \ifXeTeX % Commpilation XeLaTeX (cf 2.6)
@@ -19,6 +20,7 @@ category: ellipses
 \usepackage[latin1]{inputenc} % Latin1, utf8 ou mactex (cf 2.3)
 \usepackage[T1]{fontenc}
 \fi
+
 \usepackage{lmodern}           % Police Latin Modern
 \usepackage{graphicx}          % Pour insérer des images (cf 3.11)
 \usepackage{amsmath ,amsfonts} % Spécial math (cf 7.15)
