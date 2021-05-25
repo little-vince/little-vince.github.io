@@ -8,7 +8,7 @@ category: ellipses
 
 ```latex
 % Présentation générale et mise en page :
-\documentclass[a4paper ,11pt]{ article}
+\documentclass[a4paper ,11pt]{article}
 % Marges personnalisees (cf 3.7) :
 \usepackage[left =1cm ,right =1cm ,top =2.2cm ,bottom =1.9 cm]{ geometry}
 % Chargement automatique des packages selon le type de compilation :
@@ -31,11 +31,11 @@ category: ellipses
 \pagestyle{fancy}
 \fancyhead[L]{Titre du document}
 \fancyhead[R]{\today}
-\setlength\headheight {14pt}
-\renewcommand\headrulewidth {2pt}
+\setlength\headheight{14pt}
+\renewcommand\headrulewidth{2pt}
 \fancyfoot[C]{Page \thepage /\ pageref{LastPage }}
 
 \begin{document}
-...
+Le corps du document
 \end{document}
 ```
