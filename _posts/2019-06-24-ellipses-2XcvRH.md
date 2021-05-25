@@ -13,41 +13,28 @@ category: ellipses
 \usepackage[left =1cm ,right =1cm ,top =2.2cm ,bottom =1.9 cm]{ geometry}
 % Chargement automatique des packages selon le type de compilation :
 \usepackage{iftex}
-\ifXeTeX
-% Commpilation XeLaTeX
-(cf 2.6)
+\ifXeTeX % Commpilation XeLaTeX (cf 2.6)
 \usepackage{fontspec}
-\else
-% Compilation (Pdf) LaTeX (cf 2.6)
-\usepackage[latin 1]{ inputenc} % Latin1, utf8 ou mactex (cf 2.3)
-\usepackage[T1]{ fontenc}
+\else % Compilation (Pdf) LaTeX (cf 2.6)
+\usepackage[latin1]{inputenc} % Latin1, utf8 ou mactex (cf 2.3)
+\usepackage[T1]{fontenc}
 \fi
-\usepackage{lmodern}
-\usepackage{graphicx}
-\usepackage{amsmath ,amsfonts}
+\usepackage{lmodern}           % Police Latin Modern
+\usepackage{graphicx}          % Pour insérer des images (cf 3.11)
+\usepackage{amsmath ,amsfonts} % Spécial math (cf 7.15)
 \usepackage{amssymb ,amsthm}
-\usepackage[french ]{ babel}
-\setlength {\ parindent }{0mm}
-%
-%
-%
-%
-%
-%
-Police Latin Modern
-Pour insérer des images (cf 3.11)
-Spécial math (cf 7.2)
-Spécial math (cf 7.15)
-Typo. française (cf 3.3)
-Pas de retrait de paragraphe
+\usepackage[french]{babel}     % Typo. française (cf 3.3)
+\setlength {\parindent}{0mm}   % Pas de retrait de paragraphe
+
 % En - têtes et pieds de pages personnalisés (cf 3.15)
 \usepackage{fancyhdr ,lastpage}
 \pagestyle{fancy}
-\fancyhead[L]{ Titre du document}
-\fancyhead[R]{\ today}
+\fancyhead[L]{Titre du document}
+\fancyhead[R]{\today}
 \setlength\headheight {14pt}
 \renewcommand\headrulewidth {2pt}
-\fancyfoot[C]{ Page \thepage /\ pageref{LastPage }}
+\fancyfoot[C]{Page \thepage /\ pageref{LastPage }}
+
 \begin{document}
 ...
 \end{document}
