@@ -10,7 +10,7 @@ category: ellipses
 % Présentation générale et mise en page :
 \documentclass[a4paper,11pt]{article}
 % Marges personnalisees (cf 3.7) :
-\usepackage[left=1cm,right=1cm,top=2.2cm,bottom=1.9cm]{ geometry}
+\usepackage[left=1cm,right=1cm,top=2.2cm,bottom=1.9cm]{geometry}
 
 % Chargement automatique des packages selon le type de compilation :
 \usepackage{iftex}
@@ -23,19 +23,19 @@ category: ellipses
 
 \usepackage{lmodern}           % Police Latin Modern
 \usepackage{graphicx}          % Pour insérer des images (cf 3.11)
-\usepackage{amsmath ,amsfonts} % Spécial math (cf 7.15)
-\usepackage{amssymb ,amsthm}
+\usepackage{amsmath,amsfonts} % Spécial math (cf 7.15)
+\usepackage{amssymb,amsthm}
 \usepackage[french]{babel}     % Typo. française (cf 3.3)
-\setlength {\parindent}{0mm}   % Pas de retrait de paragraphe
+\setlength{\parindent}{0mm}   % Pas de retrait de paragraphe
 
-% En - têtes et pieds de pages personnalisés (cf 3.15)
-\usepackage{fancyhdr ,lastpage}
+% En-têtes et pieds de pages personnalisés (cf 3.15)
+\usepackage{fancyhdr,lastpage}
 \pagestyle{fancy}
 \fancyhead[L]{Titre du document}
 \fancyhead[R]{\today}
 \setlength\headheight{14pt}
 \renewcommand\headrulewidth{2pt}
-\fancyfoot[C]{Page \thepage /\ pageref{LastPage }}
+\fancyfoot[C]{Page \thepage /\pageref{LastPage}}
 
 \begin{document}
 Le corps du document
